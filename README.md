@@ -1,6 +1,6 @@
 # ADM Client Reinstall Script
 
-Este repositório contém um script PowerShell criado para reinstalar de forma limpa o cliente ADM (ACME Device Manager), uma solução fictícia de gerenciamento de estações de trabalho corporativas, no contexto da empresa fictícia Contoso Corp.
+Este repositório contém um script PowerShell criado para reinstalar de forma limpa o cliente ADM (ACME Device Manager), uma solução simulada de forma fictícia de gerenciamento de estações de trabalho corporativas, no contexto da empresa fictícia Contoso Corp.
 
 ## 🔧 Funcionalidades
 
@@ -25,4 +25,4 @@ Execute o script em uma janela do PowerShell com permissões de administrador. C
 
 ## ⚠️ Aviso
 
-Este script é fictício e foi criado apenas para fins educacionais e como amostra de portfólio técnico. Adapte os caminhos e parâmetros conforme o ambiente real, caso use como base para automações corporativas.
+Este script é fictício e foi criado apenas para fins educacionais e como amostra de portfólio técnico. Adapte os caminhos e parâmetros conforme o ambiente real, caso use como base na necessidade.
